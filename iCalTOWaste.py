@@ -1,6 +1,6 @@
 #/usr/bin/env python
 
-import csv, time, datetime
+import csv, time, datetime, os, errno
 
 #title           :iCalTOWaste.py
 #description     :Create ical and gmail calendar files for city of toronto curbside garbage collection
@@ -13,15 +13,43 @@ import csv, time, datetime
 #==============================================================================
 
 #global variables
+CALENDAR_OUTPUT_DIR = 'FinalCalendars/'
+CSV_OUTPUT_DIR = 'CSVCalendars/'
+ICS_OUTPUT_DIR = 'ICSCalendars/'
+
+CSV_OUT_PATH = CALENDAR_OUTPUT_DIR+CSV_OUTPUT_DIR
+ICS_OUT_PATH = CALENDAR_OUTPUT_DIR+ICS_OUTPUT_DIR
+
 CALENDAR_INPUT_NAME = 'Calendars.csv'
 #dict for unqiue pickup days
 PICKUP_DAYS = []
 
+def make_sure_path_exists(path):
+    try:
+        os.makedirs(path)
+		#print '#Path exists: '+path
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
+
+def make_sure_input_exists(file):
+    try:
+        os.path.exists(file)
+		#print '#File exists: '+file
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
+
 #output CSV File blanks with headers for the collection days of the week
 #creates a blank file for each collection day in the master file (column 0)
 def MakeFiles():
-	print "## Creating template files for each pickup date in input file ##"
+	print "# Creating template files for each pickup date in input file ##"
 	global PICKUP_DAYS
+
+	#check for output directory created
+	make_sure_path_exists(CALENDAR_OUTPUT_DIR)
+	make_sure_input_exists(CALENDAR_INPUT_NAME)
+	print "#Input File and Output directories exist"
 	#open the file
 	input_file = open(CALENDAR_INPUT_NAME, 'rU')
 	data = csv.reader(input_file,delimiter=',')
@@ -47,12 +75,12 @@ def MakeFiles():
 		else:
 			#write the template files by pickup day
 			print 'Writing template file for '+day
-			csv.writer(open((day +'.csv'), 'w')).writerow(new_line)
+			csv.writer(open((CSV_OUT_PATH+day +'.csv'), 'w')).writerow(new_line)
 			#print day
 
 #Write Solid Waste Calendars to file to csv
 def WriteCal():
-	print "## Writing calendar files for each pickup date in input file ##"
+	print "# Writing calendar files for each pickup date in input file ##"
 	#read the Calendars.csv file as input
 	input_file = open(CALENDAR_INPUT_NAME, 'rU')
 	data = csv.reader(input_file)
@@ -62,7 +90,7 @@ def WriteCal():
 		[Calendar,WeekStarting,GreenBin,Garbage,Recycling,Yardwaste,ChristmasTree] = line
 
 		if Calendar == "Calendar":
-			print "skipping"
+			print "#skipping header"
 			#skip first line as that is header
 			data.next()
 		else:
@@ -104,12 +132,14 @@ def WriteCal():
 
 			new_line = subject + startDate + allDay + description
 			#append the contents to the file template created above
-			csv.writer(open((Calendar +'.csv'), 'a')).writerow(new_line)
+			csv.writer(open((CSV_OUT_PATH+Calendar +'.csv'), 'a')).writerow(new_line)
 			#print Calendar
 			#print new_line
-	print "## Finished writing CSV calendars ##"
+	print "# Finished writing CSV calendars ##"
+
 #writes the ics version of the calendar files for use with ical
 def WriteIcs():
+	print "# Starting writing .ics calendars ##"
 	#TODO
 	#read input file
 	#check for output directories
@@ -125,7 +155,7 @@ def WriteIcs():
 		f.write('BEGIN:VEVENT\n')
 		summary = 'Python meeting about calendaring'
 		f.write('SUMMARY:%s\n' % summary)
-		begin_date = datetime.now().strftime("%Y%m%dT%H%M%S")
+		begin_date = datetime.datetime.now().strftime("%Y%m%dT%H%M%S")
 		uid = '20050115T101010/27346262376@mxm.dk'
 		f.write('DTSTART:%s\n' % begin_date)
 		f.write('UID:%s\n' % uid)
@@ -135,8 +165,8 @@ def WriteIcs():
 		f.write('ORGANIZER:MAILTO:%s\n' % organizer)
 		f.write('END:VEVENT\n')
 		f.write('END:VCALENDAR')
-
+	print "# Finished writing .ics calendars ##"
 #main functions
 MakeFiles()
 WriteCal()
-#WriteIcs()
+WriteIcs()

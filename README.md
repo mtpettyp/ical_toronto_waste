@@ -12,7 +12,7 @@ http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2121d187c3b02410VgnVCM10
 Grab the latest xls file from here (Toronto Open Data Curbside Garbage)
 http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2ee34b5073cfa310VgnVCM10000071d60f89RCRD&vgnextchannel=bcb6e03bb8d1e310VgnVCM10000071d60f89RCRD
 
-Open the xls and save the first tab (MAster) as Calendars.csv
+Open the xls and save the first tab (Master) as Calendars.csv
 
 Save active sheet as CSV
 

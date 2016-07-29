@@ -90,6 +90,7 @@ def MakeFiles():
 				f.write('X-WR-CALNAME:'+day+' Waste Pickup\n')
 				f.write('X-WR-TIMEZONE:America/Toronto\n')
 				f.write('X-WR-CALDESC:\n')
+				
 	input_file.close()
 
 #Write Solid Waste Calendars to file to csv
@@ -161,61 +162,62 @@ def WriteIcs():
 	data2 = csv.reader(input_file2, delimiter=',')
 
 	#print data2
-	#file headers and footers for ics files
-	ICS_FOOTERS = 'END:VCALENDAR'
-
 	for line in data2:
 		[Calendar,WeekStarting,GreenBin,Garbage,Recycling,Yardwaste,ChristmasTree] = line
 		#print Calendar
-        if Calendar == "Calendar":
+		if Calendar == "Calendar":
 			print "#skipping header"
-			print Calendar
+			#print Calendar
 			#skip first line as that is header
 			data2.next()
+		else:
+			#print 'else '+line[0]
+			day = datetime.datetime.strptime(WeekStarting, '%m-%d-%y')
+			#with open("meeting.ics", 'wb') as f:
+			dw = {"M": 7, "T":8, "W":9, "R":10, "F":11, "S":12}
+			#mark the calendar appointment as allDay
+			#may try to change this to 7am as that is when the city wants curbside garbage out by.
+			#allDay = ["True"]
+			if ChristmasTree != "0":
+				subject = "Christmas Tree/Garbage Day"
+				description = "Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag"
+				url=""
+				startDate = day + datetime.timedelta(dw[ChristmasTree] - day.weekday())
+				startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
+			elif Recycling != "0":
+				subject = "Recycling Day"
+				description = "Recycling and Green Bin"
+				url="http://www.toronto.ca/garbage/bluebin.htm"
+				startDate = day + datetime.timedelta(dw[Recycling] - day.weekday())
+				startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
+			elif Garbage != "0" and ChristmasTree == "0":
+				subject = "Garbage Day"
+				description = "Garbage, Yard and Green Bin"
+				url = "http://app.toronto.ca/wes/winfo/search.do"
+				startDate = day + datetime.timedelta(dw[Garbage] - day.weekday())
+				startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
 
-        else:
-            print 'else '+line[0]
-            day = datetime.datetime.strptime(WeekStarting, '%m-%d-%y')
-            #with open("meeting.ics", 'wb') as f:
-            dw = {"M": 7, "T":8, "W":9, "R":10, "F":11, "S":12}
-            #mark the calendar appointment as allDay
-            #may try to change this to 7am as that is when the city wants curbside garbage out by.
-            #allDay = ["True"]
-            if ChristmasTree != "0":
-            	subject = "Christmas Tree/Garbage Day"
-            	description = "Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag"
-            	url=""
-            	startDate = day + datetime.timedelta(dw[ChristmasTree] - day.weekday())
-            	startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
-            elif Recycling != "0":
-            	subject = "Recycling Day"
-            	description = "Recycling and Green Bin"
-            	url="http://www.toronto.ca/garbage/bluebin.htm"
-            	startDate = day + datetime.timedelta(dw[Recycling] - day.weekday())
-            	startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
-            elif Garbage != "0" and ChristmasTree == "0":
-            	subject = "Garbage Day"
-            	description = "Garbage, Yard and Green Bin"
-            	url = "http://app.toronto.ca/wes/winfo/search.do"
-            	startDate = day + datetime.timedelta(dw[Garbage] - day.weekday())
-            	startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
+			#append the contents to the file template created above
+			with open(ICS_OUT_PATH+Calendar +'.ics', 'a') as f:
+			#csv.writer(open((ICS_OUT_PATH+Calendar +'.ics'), 'w')).writerow(calendar_line)
+				f.write('BEGIN:VEVENT\n')
+				f.write('URL;VALUE=URI:'+url+'\n')
+				f.write('DTEND;VALUE=DATE:'+startDate+'\n')
+				f.write('SUMMARY:'+subject+'\n')
+				f.write('LOCATION:'+Calendar+' Waste Pickup\n')
+				f.write('DTSTART;VALUE=DATE:'+startDate+'\n')
+				f.write('DESCRIPTION:'+description+'\n')
+				f.write('END:VEVENT\n')
 
-            ICS_EVENT = '''BEGIN:VEVENT
-            URL;VALUE=URI:%s
-            DTEND;VALUE=DATE:%s
-            SUMMARY:%s
-            LOCATION:%s Waste Pickup
-            DTSTART;VALUE=DATE:%s
-            DESCRIPTION:%s
-            END:VEVENT''' % (url,startDate, subject, Calendar, startDate, description)
-
-		#append the contents to the file template created above
-        with open(ICS_OUT_PATH+Calendar +'.ics', 'a') as f:
-		#csv.writer(open((ICS_OUT_PATH+Calendar +'.ics'), 'w')).writerow(calendar_line)
-            #f.write(ICS_HEADERS)
-            #f.write(ICS_EVENT)
-            f.write(ICS_FOOTERS)
-            print 'end '+Calendar
+			#print 'end '+Calendar
+	
+	#we need to close the ics files with the end tags, use the dict that we created at the beginning to do that
+	#append one last line to each ics file to complete them
+	for calendar_day in PICKUP_DAYS:
+		print calendar_day
+		#append each file based on the writing path with the ICS_FOOTERS
+		with open(ICS_OUT_PATH+calendar_day +'.ics', 'a') as f:
+			f.write('END:VCALENDAR')
 
 	print '# Finished writing .ics calendars ##'
 #main functions

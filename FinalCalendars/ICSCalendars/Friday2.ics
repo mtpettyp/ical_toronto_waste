@@ -5,4 +5,428 @@ METHOD:PUBLISH
 X-WR-CALNAME:Friday2 Waste Pickup
 X-WR-TIMEZONE:America/Toronto
 X-WR-CALDESC:
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160108
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160108
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:
+DTEND;VALUE=DATE:20160115
+SUMMARY:Christmas Tree/Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160115
+DESCRIPTION:Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160122
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160122
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:
+DTEND;VALUE=DATE:20160129
+SUMMARY:Christmas Tree/Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160129
+DESCRIPTION:Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160205
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160205
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160212
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160212
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160219
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160219
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160226
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160226
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160304
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160304
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160311
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160311
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160318
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160318
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160325
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160325
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160401
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160401
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160408
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160408
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160415
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160415
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160422
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160422
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160429
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160429
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160506
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160506
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160513
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160513
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160520
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160520
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160527
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160527
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160603
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160603
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160610
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160610
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160617
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160617
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160624
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160624
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160701
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160701
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160708
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160708
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160715
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160715
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160722
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160722
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160729
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160729
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160805
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160805
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160812
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160812
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160819
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160819
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160826
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160826
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160902
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160902
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160909
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160909
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160916
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160916
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20160923
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160923
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20160930
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20160930
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161007
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161007
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20161014
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161014
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161021
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161021
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20161028
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161028
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161104
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161104
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20161111
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161111
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161118
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161118
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20161125
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161125
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161202
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161202
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20161209
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161209
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161216
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161216
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20161223
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161223
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://app.toronto.ca/wes/winfo/search.do
+DTEND;VALUE=DATE:20161230
+SUMMARY:Garbage Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20161230
+DESCRIPTION:Garbage, Yard and Green Bin
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:http://www.toronto.ca/garbage/bluebin.htm
+DTEND;VALUE=DATE:20170106
+SUMMARY:Recycling Day
+LOCATION:Friday2 Waste Pickup
+DTSTART;VALUE=DATE:20170106
+DESCRIPTION:Recycling and Green Bin
+END:VEVENT
 END:VCALENDAR

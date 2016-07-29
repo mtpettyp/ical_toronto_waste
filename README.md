@@ -18,20 +18,16 @@ Save active sheet as CSV
 
 Replace the existing Calendars.csv with the new one (main directory)
 
+Contributing
 
+    Fork it!
+    Create your feature branch: git checkout -b my-new-feature
+    Commit your changes: git commit -am 'Add some feature'
+    Push to the branch: git push origin my-new-feature
+    Submit a pull request :D
 
-Originals
+License
 
-Converts Toronto Open Data Solid Waste data into useable iCal calendars.
+This script is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
 
-Original data can be found on the Toronto Open Data website here:
-
-http://www1.toronto.ca/wps/portal/open_data/open_data_item_details?vgnextoid=2ee34b5073cfa310VgnVCM10000071d60f89RCRD&vgnextchannel=6e886aa8cc819210VgnVCM10000067d60f89RCRD
-
-Find out what garbage/recycling collection calendar applies to you and your property here:
-
-http://www.toronto.ca/garbage/single/calendars/index.htm
-
-Learn more, download and subscribe to your calendar here:
-
-http://laurenarcher.github.io/iCalTOWaste
+This script is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. Please refer to the GNU General Public License http://www.gnu.org/licenses/

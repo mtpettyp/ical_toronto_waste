@@ -1,6 +1,7 @@
 #/usr/bin/env python
 
-import csv, time, datetime, os, errno
+import csv, time, os, errno
+from datetime import datetime, timedelta
 
 #title           :iCalTOWaste.py
 #description     :Create ical and gmail calendar files for city of toronto curbside garbage collection
@@ -16,6 +17,11 @@ import csv, time, datetime, os, errno
 CALENDAR_OUTPUT_DIR = 'FinalCalendars/'
 CSV_OUTPUT_DIR = 'CSVCalendars/'
 ICS_OUTPUT_DIR = 'ICSCalendars/'
+
+INPUT_DATE_FORMAT = '%m/%d/%y'
+CSV_DATE_FORMAT = '%m-%d-%y'
+ICS_DATE_FORMAT = '%Y%m%d'
+
 
 CSV_OUT_PATH = CALENDAR_OUTPUT_DIR+CSV_OUTPUT_DIR
 ICS_OUT_PATH = CALENDAR_OUTPUT_DIR+ICS_OUTPUT_DIR
@@ -90,7 +96,7 @@ def MakeFiles():
 				f.write('X-WR-CALNAME:'+day+' Waste Pickup\n')
 				f.write('X-WR-TIMEZONE:America/Toronto\n')
 				f.write('X-WR-CALDESC:\n')
-				
+
 	input_file.close()
 
 #Write Solid Waste Calendars to file to csv
@@ -119,7 +125,7 @@ def WriteCal():
 			#%m - zero padded month
 			#%d - zero padded day
 			#%y - year without the century
-			day = datetime.datetime.strptime(WeekStarting, '%m-%d-%y')
+			day = datetime.strptime(WeekStarting, INPUT_DATE_FORMAT)
 			#calendars are provided starting with a weekStarting datetime
 			#there is the letter in the dict below that maps the pickup day on the week of service
 			#so for instance if the pickup date was thursday, tht would be marked with an R
@@ -132,18 +138,18 @@ def WriteCal():
 			if ChristmasTree != "0":
 			    subject = ["Christmas Tree/Garbage Day"]
 			    description = ["Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag"]
-			    startDate = day + datetime.timedelta(dw[ChristmasTree] - day.weekday())
-			    startDate = [datetime.datetime.strftime(startDate, "%m-%d-%y")]
+			    startDate = day + timedelta(dw[ChristmasTree] - day.weekday())
+			    startDate = [datetime.strftime(startDate, CSV_DATE_FORMAT)]
 			elif Recycling != "0":
 			    subject = ["Recycling Day"]
 			    description = ["Recycling and Green Bin - More information on what can be recycled click here: http://www.toronto.ca/garbage/bluebin.htm"]
-			    startDate = day + datetime.timedelta(dw[Recycling] - day.weekday())
-			    startDate = [datetime.datetime.strftime(startDate, "%m-%d-%y")]
+			    startDate = day + timedelta(dw[Recycling] - day.weekday())
+			    startDate = [datetime.strftime(startDate, CSV_DATE_FORMAT)]
 			elif Garbage != "0" and ChristmasTree == "0":
 			    subject = ["Garbage Day"]
 			    description = ["Garbage, Yard and Green Bin - Basic sorting information here: http://app.toronto.ca/wes/winfo/search.do"]
-			    startDate = day + datetime.timedelta(dw[Garbage] - day.weekday())
-			    startDate = [datetime.datetime.strftime(startDate, "%m-%d-%y")]
+			    startDate = day + timedelta(dw[Garbage] - day.weekday())
+			    startDate = [datetime.strftime(startDate, CSV_DATE_FORMAT)]
 
 			new_line = subject + startDate + allDay + description
 			#append the contents to the file template created above
@@ -151,7 +157,7 @@ def WriteCal():
 			#print Calendar
 			#print new_line
 	print "# Finished writing CSV calendars ##"
-	input_file.close()	
+	input_file.close()
 
 #writes the ics version of the calendar files for use with ical
 def WriteIcs():
@@ -172,7 +178,7 @@ def WriteIcs():
 			data2.next()
 		else:
 			#print 'else '+line[0]
-			day = datetime.datetime.strptime(WeekStarting, '%m-%d-%y')
+			day = datetime.strptime(WeekStarting, INPUT_DATE_FORMAT)
 			#with open("meeting.ics", 'wb') as f:
 			dw = {"M": 7, "T":8, "W":9, "R":10, "F":11, "S":12}
 			#mark the calendar appointment as allDay
@@ -182,20 +188,20 @@ def WriteIcs():
 				subject = "Christmas Tree/Garbage Day"
 				description = "Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag"
 				url=""
-				startDate = day + datetime.timedelta(dw[ChristmasTree] - day.weekday())
-				startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
+				startDate = day + timedelta(dw[ChristmasTree] - day.weekday())
+				startDate = datetime.strftime(startDate, ICS_DATE_FORMAT)
 			elif Recycling != "0":
 				subject = "Recycling Day"
 				description = "Recycling and Green Bin"
 				url="http://www.toronto.ca/garbage/bluebin.htm"
-				startDate = day + datetime.timedelta(dw[Recycling] - day.weekday())
-				startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
+				startDate = day + timedelta(dw[Recycling] - day.weekday())
+				startDate = datetime.strftime(startDate, ICS_DATE_FORMAT)
 			elif Garbage != "0" and ChristmasTree == "0":
 				subject = "Garbage Day"
 				description = "Garbage, Yard and Green Bin"
 				url = "http://app.toronto.ca/wes/winfo/search.do"
-				startDate = day + datetime.timedelta(dw[Garbage] - day.weekday())
-				startDate = datetime.datetime.strftime(startDate, "%Y%m%d")
+				startDate = day + timedelta(dw[Garbage] - day.weekday())
+				startDate = datetime.strftime(startDate, ICS_DATE_FORMAT)
 
 			#append the contents to the file template created above
 			with open(ICS_OUT_PATH+Calendar +'.ics', 'a') as f:
@@ -210,7 +216,7 @@ def WriteIcs():
 				f.write('END:VEVENT\n')
 
 			#print 'end '+Calendar
-	
+
 	#we need to close the ics files with the end tags, use the dict that we created at the beginning to do that
 	#append one last line to each ics file to complete them
 	for calendar_day in PICKUP_DAYS:

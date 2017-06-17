@@ -1,33 +1,38 @@
-#iCalTOWaste
-===========
+# iCalTOWaste
 
-Converts Toronto Open Data Solid Waste data into useable iCal calendars.
+Converts Toronto Open Data Solid Waste data into useable iCal and CSV calendars.
 
-Updated to 2016 formats and website locations
+![Example](AllCals.jpg)
 
-How To:
-Locate your pickup location here (City of Toronto Curbside Garbage)
-http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2121d187c3b02410VgnVCM10000071d60f89RCRD&vgnextchannel=239c433112b02410VgnVCM10000071d60f89RCRD
+| Zone | Google Calendar/iCal | Outlook/Yahoo! Calendars/CSV |
+|------|:--------------------:|:----------------------------:|
+| Monday Night | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/MondayNight.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/MondayNight.csv) |
+| Tuesday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Tuesday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Tuesday1.csv) |
+| Tuesday 2 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Tuesday2.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Tuesday2.csv) |
+| Wednesday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Wednesday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Wednesday1.csv) |
+| Wednesday 2 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Wednesday2.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Wednesday2.csv) |
+| Thursday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Thursday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Thursday1.csv) |
+| Thursday 2 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Thursday2.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Thursday2.csv) |
+| Friday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Friday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Friday1.csv) |
+| Friday 2 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Friday2.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Friday2.csv) |
 
-Grab the latest xls file from here (Toronto Open Data Curbside Garbage)
-http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2ee34b5073cfa310VgnVCM10000071d60f89RCRD&vgnextchannel=bcb6e03bb8d1e310VgnVCM10000071d60f89RCRD
+Find out when your waste gets collected [here](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=3f3cbf3b6e156510VgnVCM10000071d60f89RCRD)
 
-Open the xls and save the first tab (Master) as Calendars.csv
 
-Save active sheet as CSV
+## Updating
+1. Grab the latest CSV file from [here](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2ee34b5073cfa310VgnVCM10000071d60f89RCRD&vgnextchannel=bcb6e03bb8d1e310VgnVCM10000071d60f89RCRD)
+1. Save the file as Calendars.csv
+1. Run `python iCalTOWaste.py`
 
-Replace the existing Calendars.csv with the new one (main directory)
 
-Contributing
+## Contributing
+1. Fork it
+1. Create your feature branch: git checkout -b my-new-feature
+1. Commit your changes: git commit -am 'Add some feature'
+1. Push to the branch: git push origin my-new-feature
+1. Submit a pull request
 
-    Fork it!
-    Create your feature branch: git checkout -b my-new-feature
-    Commit your changes: git commit -am 'Add some feature'
-    Push to the branch: git push origin my-new-feature
-    Submit a pull request :D
+## License
 
-License
-
-This script is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
-
-This script is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. Please refer to the GNU General Public License http://www.gnu.org/licenses/
+> This script is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
+> This script is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. Please refer to the GNU General Public License http://www.gnu.org/licenses/

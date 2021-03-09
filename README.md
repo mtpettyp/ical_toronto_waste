@@ -16,11 +16,11 @@ Converts Toronto Open Data Solid Waste data into useable iCal and CSV calendars.
 | Friday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Friday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Friday1.csv) |
 | Friday 2 | [iCal](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/ICSCalendars/Friday2.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/iCalTOWaste/master/FinalCalendars/CSVCalendars/Friday2.csv) |
 
-Find out when your waste gets collected [here](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=3f3cbf3b6e156510VgnVCM10000071d60f89RCRD)
+Find out when your waste gets collected [here](https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/collection-schedule/)
 
 
 ## Updating
-1. Grab the latest CSV file from [here](http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=2ee34b5073cfa310VgnVCM10000071d60f89RCRD&vgnextchannel=bcb6e03bb8d1e310VgnVCM10000071d60f89RCRD)
+1. Grab the latest CSV file from [here](https://open.toronto.ca/dataset/solid-waste-pickup-schedule/)
 1. Save the file as Calendars.csv
 1. Run `python iCalTOWaste.py`
 

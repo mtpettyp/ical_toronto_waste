@@ -9,9 +9,9 @@ logging.basicConfig(stream=sys.stdout,
                     level=logging.INFO,
                     format='[%(levelname)s] %(message)s')
 
-CALENDAR_OUTPUT_DIR = 'FinalCalendars/'
-CSV_OUTPUT_DIR = 'CSVCalendars/'
-ICS_OUTPUT_DIR = 'ICSCalendars/'
+CALENDAR_OUTPUT_DIR = 'output/'
+CSV_OUTPUT_DIR = 'csv/'
+ICS_OUTPUT_DIR = 'ics/'
 
 CSV_OUT_PATH = CALENDAR_OUTPUT_DIR + CSV_OUTPUT_DIR
 ICS_OUT_PATH = CALENDAR_OUTPUT_DIR + ICS_OUTPUT_DIR

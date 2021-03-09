@@ -2,423 +2,371 @@ BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Tuesday1 Waste Pickup
+X-WR-CALNAME:Wednesday1 Waste Pickup
 X-WR-TIMEZONE:America/Toronto
 X-WR-CALDESC:
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210105
+DTEND;VALUE=DATE:20210106
 SUMMARY:🎄 Christmas Tree/Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210105
+DTSTART;VALUE=DATE:20210106
 DESCRIPTION:Christmas Tree/Garbage/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210112
+DTEND;VALUE=DATE:20210113
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210112
+DTSTART;VALUE=DATE:20210113
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210119
+DTEND;VALUE=DATE:20210120
 SUMMARY:🎄 Christmas Tree/Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210119
+DTSTART;VALUE=DATE:20210120
 DESCRIPTION:Christmas Tree/Garbage/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210126
+DTEND;VALUE=DATE:20210127
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210126
+DTSTART;VALUE=DATE:20210127
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210202
+DTEND;VALUE=DATE:20210203
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210202
+DTSTART;VALUE=DATE:20210203
 DESCRIPTION:Garbage/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210209
+DTEND;VALUE=DATE:20210210
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210209
+DTSTART;VALUE=DATE:20210210
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210216
+DTEND;VALUE=DATE:20210217
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210216
+DTSTART;VALUE=DATE:20210217
 DESCRIPTION:Garbage/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210223
+DTEND;VALUE=DATE:20210224
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210223
+DTSTART;VALUE=DATE:20210224
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210302
+DTEND;VALUE=DATE:20210303
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210302
+DTSTART;VALUE=DATE:20210303
 DESCRIPTION:Garbage/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210309
+DTEND;VALUE=DATE:20210310
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210309
+DTSTART;VALUE=DATE:20210310
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210316
+DTEND;VALUE=DATE:20210317
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210316
+DTSTART;VALUE=DATE:20210317
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210323
+DTEND;VALUE=DATE:20210324
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210323
+DTSTART;VALUE=DATE:20210324
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210330
+DTEND;VALUE=DATE:20210331
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210330
+DTSTART;VALUE=DATE:20210331
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210406
+DTEND;VALUE=DATE:20210407
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210406
+DTSTART;VALUE=DATE:20210407
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210413
+DTEND;VALUE=DATE:20210414
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210413
+DTSTART;VALUE=DATE:20210414
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210420
+DTEND;VALUE=DATE:20210421
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210420
+DTSTART;VALUE=DATE:20210421
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210427
+DTEND;VALUE=DATE:20210428
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210427
+DTSTART;VALUE=DATE:20210428
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210504
+DTEND;VALUE=DATE:20210505
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210504
+DTSTART;VALUE=DATE:20210505
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210511
+DTEND;VALUE=DATE:20210512
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210511
+DTSTART;VALUE=DATE:20210512
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210518
+DTEND;VALUE=DATE:20210519
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210518
+DTSTART;VALUE=DATE:20210519
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210525
+DTEND;VALUE=DATE:20210526
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210525
+DTSTART;VALUE=DATE:20210526
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210601
+DTEND;VALUE=DATE:20210602
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210601
+DTSTART;VALUE=DATE:20210602
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210608
+DTEND;VALUE=DATE:20210609
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210608
+DTSTART;VALUE=DATE:20210609
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210615
+DTEND;VALUE=DATE:20210616
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210615
+DTSTART;VALUE=DATE:20210616
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210622
+DTEND;VALUE=DATE:20210623
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210622
+DTSTART;VALUE=DATE:20210623
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210629
+DTEND;VALUE=DATE:20210630
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210629
+DTSTART;VALUE=DATE:20210630
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210706
+DTEND;VALUE=DATE:20210707
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210706
+DTSTART;VALUE=DATE:20210707
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210713
+DTEND;VALUE=DATE:20210714
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210713
+DTSTART;VALUE=DATE:20210714
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210720
+DTEND;VALUE=DATE:20210721
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210720
+DTSTART;VALUE=DATE:20210721
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210727
+DTEND;VALUE=DATE:20210728
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210727
+DTSTART;VALUE=DATE:20210728
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210803
+DTEND;VALUE=DATE:20210804
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210803
+DTSTART;VALUE=DATE:20210804
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210810
+DTEND;VALUE=DATE:20210811
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210810
+DTSTART;VALUE=DATE:20210811
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210817
+DTEND;VALUE=DATE:20210818
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210817
+DTSTART;VALUE=DATE:20210818
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210824
+DTEND;VALUE=DATE:20210825
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210824
+DTSTART;VALUE=DATE:20210825
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210831
+DTEND;VALUE=DATE:20210901
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210831
+DTSTART;VALUE=DATE:20210901
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210907
+DTEND;VALUE=DATE:20210908
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210907
+DTSTART;VALUE=DATE:20210908
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210914
+DTEND;VALUE=DATE:20210915
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210914
+DTSTART;VALUE=DATE:20210915
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20210921
+DTEND;VALUE=DATE:20210922
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210921
+DTSTART;VALUE=DATE:20210922
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20210928
+DTEND;VALUE=DATE:20210929
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20210928
+DTSTART;VALUE=DATE:20210929
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211005
+DTEND;VALUE=DATE:20211006
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211005
+DTSTART;VALUE=DATE:20211006
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20211012
+DTEND;VALUE=DATE:20211013
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211012
+DTSTART;VALUE=DATE:20211013
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211019
+DTEND;VALUE=DATE:20211020
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211019
+DTSTART;VALUE=DATE:20211020
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20211026
+DTEND;VALUE=DATE:20211027
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211026
+DTSTART;VALUE=DATE:20211027
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211102
+DTEND;VALUE=DATE:20211103
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211102
+DTSTART;VALUE=DATE:20211103
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20211109
+DTEND;VALUE=DATE:20211110
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211109
+DTSTART;VALUE=DATE:20211110
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211116
+DTEND;VALUE=DATE:20211117
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211116
+DTSTART;VALUE=DATE:20211117
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20211123
+DTEND;VALUE=DATE:20211124
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211123
+DTSTART;VALUE=DATE:20211124
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211130
+DTEND;VALUE=DATE:20211201
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211130
+DTSTART;VALUE=DATE:20211201
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20211207
+DTEND;VALUE=DATE:20211208
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211207
+DTSTART;VALUE=DATE:20211208
 DESCRIPTION:Garbage/Green Bin/Yard Waste
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211214
+DTEND;VALUE=DATE:20211215
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211214
+DTSTART;VALUE=DATE:20211215
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-DTEND;VALUE=DATE:20211221
+DTEND;VALUE=DATE:20211222
 SUMMARY:🗑 Garbage Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211221
+DTSTART;VALUE=DATE:20211222
 DESCRIPTION:Garbage/Green Bin
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-DTEND;VALUE=DATE:20211228
+DTEND;VALUE=DATE:20211229
 SUMMARY:♻️ Recycling Day
-LOCATION:Tuesday1 Waste Pickup
-DTSTART;VALUE=DATE:20211228
+DTSTART;VALUE=DATE:20211229
 DESCRIPTION:Recycling/Green Bin
 END:VEVENT
 END:VCALENDAR

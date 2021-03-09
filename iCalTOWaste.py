@@ -18,7 +18,7 @@ CALENDAR_OUTPUT_DIR = 'FinalCalendars/'
 CSV_OUTPUT_DIR = 'CSVCalendars/'
 ICS_OUTPUT_DIR = 'ICSCalendars/'
 
-INPUT_DATE_FORMAT = '%m/%d/%y'
+INPUT_DATE_FORMAT = '%Y-%m-%d'
 CSV_DATE_FORMAT = '%m-%d-%y'
 ICS_DATE_FORMAT = '%Y%m%d'
 
@@ -27,7 +27,7 @@ CSV_OUT_PATH = CALENDAR_OUTPUT_DIR+CSV_OUTPUT_DIR
 ICS_OUT_PATH = CALENDAR_OUTPUT_DIR+ICS_OUTPUT_DIR
 
 CALENDAR_INPUT_NAME = 'Calendars.csv'
-#dict for unqiue pickup days
+#dict for unique pickup days
 PICKUP_DAYS = []
 
 #==================================
@@ -72,8 +72,8 @@ def MakeFiles():
     #grab only the unique pickup days from the first column
     for line in data:
     	#print line[0]
-    	if line[0] not in PICKUP_DAYS:
-    		PICKUP_DAYS.append(line[0])
+    	if line[1] not in PICKUP_DAYS:
+    		PICKUP_DAYS.append(line[1])
 
     #iterate over the unique days to create the template files
     for day in PICKUP_DAYS:
@@ -107,7 +107,7 @@ def WriteCal():
 
 	for line in data:
 		#split the input file into elements
-		[Calendar,Day,GreenBin,Garbage,Recycling,Yardwaste,ChristmasTree] = line
+		[_,Calendar,Day,GreenBin,Garbage,Recycling,Yardwaste,ChristmasTree] = line
 
 		if Calendar == "Calendar":
 			print "#skipping header"
@@ -125,10 +125,10 @@ def WriteCal():
 			    description = ["Garbage and Green Bin waste, Christmas tree collection occurs Today. When placing your tree out for collection, please remove all decorations, tinsel, etc and do not place out in any type of bag"]
 			elif Recycling != "0":
 			    subject = ["Recycling Day"]
-			    description = ["Recycling and Green Bin - More information on what can be recycled click here: http://www.toronto.ca/garbage/bluebin.htm"]
+			    description = ["Recycling and Green Bin - More information on what can be recycled click here: https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/"]
 			elif Garbage != "0" and ChristmasTree == "0":
 			    subject = ["Garbage Day"]
-			    description = ["Garbage, Yard and Green Bin - Basic sorting information here: http://app.toronto.ca/wes/winfo/search.do"]
+			    description = ["Garbage, Yard and Green Bin - Basic sorting information here: https://www.toronto.ca/services-payments/recycling-organics-garbage/apartments-condos-co-ops/sorting-recycling-organics-garbage/"]
 
 			new_line = subject + startDate + allDay + description
 			#append the contents to the file template created above
@@ -145,7 +145,7 @@ def WriteIcs():
 	data2 = csv.reader(input_file2, delimiter=',')
 
 	for line in data2:
-		[Calendar,WeekStarting,GreenBin,Garbage,Recycling,Yardwaste,ChristmasTree] = line
+		[_,Calendar,WeekStarting,GreenBin,Garbage,Recycling,Yardwaste,ChristmasTree] = line
 		if Calendar == "Calendar":
 			print "#skipping header"
 			#skip first line as that is header

@@ -91,7 +91,6 @@ def write_ics(data):
                 ics_file.write(f'URL;VALUE=URI:{pickup.url()}\n')
                 ics_file.write(f'DTEND;VALUE=DATE:{start_date}\n')
                 ics_file.write(f'SUMMARY:{pickup.subject()}\n')
-                ics_file.write(f'LOCATION:{calendar} Waste Pickup\n')
                 ics_file.write(f'DTSTART;VALUE=DATE:{start_date}\n')
                 ics_file.write(f'DESCRIPTION:{pickup.description()}\n')
                 ics_file.write('END:VEVENT\n')

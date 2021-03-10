@@ -89,9 +89,9 @@ def write_ics(data):
                 start_date = datetime.strftime(pickup.day, ICS_DATE_FORMAT)
                 ics_file.write('BEGIN:VEVENT\n')
                 ics_file.write(f'URL;VALUE=URI:{pickup.url()}\n')
-                ics_file.write(f'DTEND;VALUE=DATE:{start_date}\n')
                 ics_file.write(f'SUMMARY:{pickup.subject()}\n')
                 ics_file.write(f'DTSTART;VALUE=DATE:{start_date}\n')
+                ics_file.write('DURATION;P1D\n')
                 ics_file.write(f'DESCRIPTION:{pickup.description()}\n')
                 ics_file.write('END:VEVENT\n')
 

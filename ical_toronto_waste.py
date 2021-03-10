@@ -21,6 +21,7 @@ CALENDAR_INPUT_NAME = 'Calendars.csv'
 INPUT_DATE_FORMAT = '%Y-%m-%d'
 CSV_DATE_FORMAT = '%m-%d-%y'
 ICS_DATE_FORMAT = '%Y%m%d'
+ICS_DATETIME_FORMAT = '%Y%m%dT%H%M%S'
 
 
 def main():
@@ -71,31 +72,37 @@ def write_csv(data):
 def write_ics(data):
     logging.info('Writing ICS calendars')
 
+    ics_generation_time = datetime.strftime(
+        datetime.now(), ICS_DATETIME_FORMAT)
+
     for calendar in data:
         pickups = data[calendar]
 
         logging.info('Writing %s ICS', calendar)
 
         with open(f'{ICS_OUT_PATH}{calendar}.ics', 'w') as ics_file:
-            ics_file.write('BEGIN:VCALENDAR\n')
-            ics_file.write('VERSION:2.0\n')
-            ics_file.write('CALSCALE:GREGORIAN\n')
-            ics_file.write('METHOD:PUBLISH\n')
-            ics_file.write(f'X-WR-CALNAME:{calendar} Waste Pickup\n')
-            ics_file.write('X-WR-TIMEZONE:America/Toronto\n')
-            ics_file.write('X-WR-CALDESC:\n')
+            ics_file.write('BEGIN:VCALENDAR\r\n')
+            ics_file.write('VERSION:2.0\r\n')
+            ics_file.write('CALSCALE:GREGORIAN\r\n')
+            ics_file.write('METHOD:PUBLISH\r\n')
+            ics_file.write(
+                'PRODID:https://github.com/mtpettyp/ical_toronto_waste\r\n')
+            ics_file.write(f'X-WR-CALNAME:{calendar} Waste Pickup\r\n')
+            ics_file.write('X-WR-TIMEZONE:America/Toronto\r\n')
 
             for pickup in pickups:
                 start_date = datetime.strftime(pickup.day, ICS_DATE_FORMAT)
-                ics_file.write('BEGIN:VEVENT\n')
-                ics_file.write(f'URL;VALUE=URI:{pickup.url()}\n')
-                ics_file.write(f'SUMMARY:{pickup.subject()}\n')
-                ics_file.write(f'DTSTART;VALUE=DATE:{start_date}\n')
-                ics_file.write('DURATION;P1D\n')
-                ics_file.write(f'DESCRIPTION:{pickup.description()}\n')
-                ics_file.write('END:VEVENT\n')
+                ics_file.write('BEGIN:VEVENT\r\n')
+                ics_file.write(f'URL;VALUE=URI:{pickup.url()}\r\n')
+                ics_file.write(f'SUMMARY:{pickup.subject()}\r\n')
+                ics_file.write(f'DTSTART;VALUE=DATE:{start_date}\r\n')
+                ics_file.write(
+                    f'DTSTAMP;VALUE=DATETIME:{ics_generation_time}\r\n')
+                ics_file.write(f'UID:{start_date}{calendar}\r\n')
+                ics_file.write(f'DESCRIPTION:{pickup.description()}\r\n')
+                ics_file.write('END:VEVENT\r\n')
 
-            ics_file.write('END:VCALENDAR')
+            ics_file.write('END:VCALENDAR\r\n')
 
     logging.info('Finished writing ICS calendars')
 

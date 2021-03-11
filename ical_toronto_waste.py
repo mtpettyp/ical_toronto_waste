@@ -63,8 +63,8 @@ def write_csv(data):
             for pickup in pickups:
                 start_date = datetime.strftime(pickup.day, CSV_DATE_FORMAT)
                 csv_writer.writerow(
-                    [pickup.subject(), start_date, 'TRUE',
-                     f'{pickup.description()} - See {pickup.url()}'])
+                    [pickup.subject, start_date, 'TRUE',
+                     f'{pickup.description} - See {pickup.url}'])
 
     logging.info('Finished writing CSV calendars')
 
@@ -93,13 +93,13 @@ def write_ics(data):
             for pickup in pickups:
                 start_date = datetime.strftime(pickup.day, ICS_DATE_FORMAT)
                 ics_file.write('BEGIN:VEVENT\r\n')
-                ics_file.write(f'URL;VALUE=URI:{pickup.url()}\r\n')
-                ics_file.write(f'SUMMARY:{pickup.subject()}\r\n')
+                ics_file.write(f'URL;VALUE=URI:{pickup.url}\r\n')
+                ics_file.write(f'SUMMARY:{pickup.subject}\r\n')
                 ics_file.write(f'DTSTART;VALUE=DATE:{start_date}\r\n')
                 ics_file.write(
                     f'DTSTAMP;VALUE=DATETIME:{ics_generation_time}\r\n')
                 ics_file.write(f'UID:{start_date}{calendar}\r\n')
-                ics_file.write(f'DESCRIPTION:{pickup.description()}\r\n')
+                ics_file.write(f'DESCRIPTION:{pickup.description}\r\n')
                 ics_file.write('END:VEVENT\r\n')
 
             ics_file.write('END:VCALENDAR\r\n')
@@ -107,9 +107,14 @@ def write_ics(data):
     logging.info('Finished writing ICS calendars')
 
 
-SUBJECT_GARBAGE = '🗑 Garbage Day'
-SUBJECT_RECYCLING = '♻️ Recycling Day'
-SUBJECT_CHRISTMAS_TREE = '🎄 Christmas Tree/Garbage Day'
+SUBJECT_GARBAGE = 'Garbage Day'
+EMOJI_GARBAGE = '🗑'
+SUBJECT_RECYCLING = 'Recycling Day'
+EMOJI_RECYCLING = '♻️'
+SUBJECT_YARD_WASTE = 'Yard Waste'
+EMOJI_YARD_WASTE = '🍂'
+SUBJECT_CHRISTMAS_TREE = 'Christmas Tree'
+EMOJI_CHRISTMAS_TREE = '🎄'
 
 URL_GARBAGE = ('https://www.toronto.ca/services-payments/recycling-organics-garbage/'
                'houses/what-goes-in-my-green-bin/')
@@ -127,14 +132,25 @@ class Pickup:
         self.yard_waste = yard_waste != '0'
         self.christmas_tree = christmas_tree != '0'
 
+    @property
     def subject(self):
+        emoji = []
+        types = []
         if self.christmas_tree:
-            return SUBJECT_CHRISTMAS_TREE
+            emoji.append(EMOJI_CHRISTMAS_TREE)
+            types.append(SUBJECT_CHRISTMAS_TREE)
+        if self.yard_waste:
+            emoji.append(EMOJI_YARD_WASTE)
+            types.append(SUBJECT_YARD_WASTE)
         if self.recycling:
-            return SUBJECT_RECYCLING
+            emoji.append(EMOJI_RECYCLING)
+            types.append(SUBJECT_RECYCLING)
+        if self.garbage:
+            emoji.append(EMOJI_GARBAGE)
+            types.append(SUBJECT_GARBAGE)
+        return '{} {}'.format(('').join(emoji), ('/').join(types))
 
-        return SUBJECT_GARBAGE
-
+    @property
     def description(self):
         types = []
         if self.christmas_tree:
@@ -149,6 +165,7 @@ class Pickup:
             types.append('Yard Waste')
         return ('/').join(types)
 
+    @property
     def url(self):
         if self.recycling:
             return URL_RECYCLING

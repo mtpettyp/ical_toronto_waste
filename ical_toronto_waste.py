@@ -100,6 +100,7 @@ def write_ics(data):
                     f'DTSTAMP;VALUE=DATETIME:{ics_generation_time}\r\n')
                 ics_file.write(f'UID:{start_date}{calendar}\r\n')
                 ics_file.write(f'DESCRIPTION:{pickup.description}\r\n')
+                ics_file.write('TRANSP:TRANSPARENT\r\n')
                 ics_file.write('END:VEVENT\r\n')
 
             ics_file.write('END:VCALENDAR\r\n')

@@ -21,7 +21,7 @@ Find out when your waste gets collected [here](https://www.toronto.ca/services-p
 
 ## Updating
 1. Grab the latest CSV file from [here](https://open.toronto.ca/dataset/solid-waste-pickup-schedule/)
-1. Save the file as Calendars.csv
+1. Save the file to the schedules directory (should be named `pickup-schedule-YYYY.csv`)
 1. Run `python ical_toronto_waste.py`
 
 

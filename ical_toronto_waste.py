@@ -1,4 +1,5 @@
 import csv
+import glob
 import logging
 import sys
 from collections import defaultdict
@@ -16,7 +17,7 @@ ICS_OUTPUT_DIR = 'ics/'
 CSV_OUT_PATH = CALENDAR_OUTPUT_DIR + CSV_OUTPUT_DIR
 ICS_OUT_PATH = CALENDAR_OUTPUT_DIR + ICS_OUTPUT_DIR
 
-CALENDAR_INPUT_NAME = 'Calendars.csv'
+SCHEDULES_FILE_REGEX = 'schedules/pickup-schedule-*.csv'
 
 INPUT_DATE_FORMAT = '%Y-%m-%d'
 CSV_DATE_FORMAT = '%m-%d-%y'
@@ -34,15 +35,18 @@ def process_data():
     logging.info('Parsing City of Toronto Open Data')
 
     data = defaultdict(list)
-    with open(CALENDAR_INPUT_NAME) as calendar_file:
-        lines = csv.reader(calendar_file)
 
-        # Skip header
-        lines.__next__()
+    for file in sorted(glob.glob(SCHEDULES_FILE_REGEX)):
+        logging.info(f'Parsing {file}')
+        with open(file) as calendar_file:
+            lines = csv.reader(calendar_file)
 
-        for row in lines:
-            pickup = Pickup(row)
-            data[pickup.calendar].append(pickup)
+            # Skip header
+            lines.__next__()
+
+            for row in lines:
+                pickup = Pickup(row)
+                data[pickup.calendar].append(pickup)
 
     return data
 

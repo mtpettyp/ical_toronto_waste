@@ -6,1415 +6,470 @@ PRODID:https://github.com/mtpettyp/ical_toronto_waste
 X-WR-CALNAME:Wednesday1 Waste Pickup
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🎄🗑 Christmas Tree/Garbage Day
-DTSTART;VALUE=DATE:20230104
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230104Wednesday1
-DESCRIPTION:Christmas Tree/Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
 SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230111
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230111Wednesday1
+DTSTART;VALUE=DATE:20260107
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260107Wednesday1
 DESCRIPTION:Recycling/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 SUMMARY:🎄🗑 Christmas Tree/Garbage Day
-DTSTART;VALUE=DATE:20230118
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230118Wednesday1
+DTSTART;VALUE=DATE:20260114
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260114Wednesday1
 DESCRIPTION:Christmas Tree/Garbage/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
 SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230125
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230125Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20230201
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230201Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230208
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230208Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20230215
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230215Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230222
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230222Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20230301
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230301Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230308
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230308Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230315
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230315Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230322
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230322Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230329
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230329Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230405
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230405Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230412
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230412Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230419
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230419Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230426
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230426Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230503
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230503Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230510
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230510Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230517
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230517Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230524
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230524Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230531
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230531Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230607
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230607Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230614
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230614Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230621
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230621Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230628
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230628Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230705
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230705Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230712
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230712Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230719
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230719Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230726
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230726Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230802
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230802Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230809
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230809Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230816
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230816Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230823
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230823Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230830
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230830Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230906
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230906Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230913
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230913Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20230920
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230920Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20230927
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20230927Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231004
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231004Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20231011
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231011Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231018
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231018Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20231025
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231025Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231101
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231101Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20231108
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231108Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231115
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231115Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20231122
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231122Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231129
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231129Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20231206
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231206Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231213
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231213Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20231220
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231220Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20231227
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20231227Wednesday1
+DTSTART;VALUE=DATE:20260121
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260121Wednesday1
 DESCRIPTION:Recycling/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 SUMMARY:🎄🗑 Christmas Tree/Garbage Day
-DTSTART;VALUE=DATE:20240103
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240103Wednesday1
+DTSTART;VALUE=DATE:20260128
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260128Wednesday1
 DESCRIPTION:Christmas Tree/Garbage/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
 SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240110
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240110Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🎄🗑 Christmas Tree/Garbage Day
-DTSTART;VALUE=DATE:20240117
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240117Wednesday1
-DESCRIPTION:Christmas Tree/Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240124
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240124Wednesday1
+DTSTART;VALUE=DATE:20260204
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260204Wednesday1
 DESCRIPTION:Recycling/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20240131
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240131Wednesday1
+DTSTART;VALUE=DATE:20260211
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260211Wednesday1
 DESCRIPTION:Garbage/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
 SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240207
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240207Wednesday1
+DTSTART;VALUE=DATE:20260218
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260218Wednesday1
 DESCRIPTION:Recycling/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20240214
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240214Wednesday1
+DTSTART;VALUE=DATE:20260225
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260225Wednesday1
 DESCRIPTION:Garbage/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
 SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240221
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240221Wednesday1
+DTSTART;VALUE=DATE:20260304
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260304Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260311
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260311Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260318
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260318Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260325
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260325Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260401
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260401Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260408
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260408Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260415
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260415Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260422
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260422Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260429
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260429Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260506
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260506Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260513
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260513Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260520
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260520Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260527
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260527Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260603
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260603Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260610
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260610Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260617
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260617Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260624
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260624Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260701
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260701Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260708
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260708Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260715
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260715Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260722
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260722Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260729
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260729Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260805
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260805Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260812
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260812Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260819
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260819Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260826
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260826Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260902
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260902Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260909
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260909Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260916
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260916Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20260923
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260923Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20260930
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20260930Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20261007
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261007Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20261014
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261014Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20261021
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261021Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20261028
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261028Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20261104
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261104Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20261111
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261111Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20261118
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261118Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20261125
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261125Wednesday1
+DESCRIPTION:Recycling/Green Bin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+SUMMARY:🍂🗑 Yard Waste/Garbage Day
+DTSTART;VALUE=DATE:20261202
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261202Wednesday1
+DESCRIPTION:Garbage/Green Bin/Yard Waste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
+SUMMARY:♻️ Recycling Day
+DTSTART;VALUE=DATE:20261209
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261209Wednesday1
 DESCRIPTION:Recycling/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20240228
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240228Wednesday1
+DTSTART;VALUE=DATE:20261216
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261216Wednesday1
 DESCRIPTION:Garbage/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+URL;VALUE=URI:https://www.circularmaterials.ca/toronto/
 SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240306
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240306Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240313
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240313Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240320
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240320Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240327
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240327Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240403
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240403Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240410
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240410Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240417
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240417Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240424
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240424Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240501
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240501Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240508
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240508Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240515
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240515Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240522
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240522Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240529
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240529Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240605
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240605Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240612
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240612Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240619
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240619Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240626
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240626Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240703
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240703Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240710
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240710Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240717
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240717Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240724
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240724Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240731
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240731Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240807
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240807Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240814
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240814Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240821
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240821Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240828
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240828Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240904
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240904Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240911
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240911Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20240918
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240918Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20240925
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20240925Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241002
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241002Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20241009
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241009Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241016
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241016Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20241023
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241023Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241030
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241030Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20241106
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241106Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241113
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241113Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20241120
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241120Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241127
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241127Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20241204
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241204Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241211
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241211Wednesday1
+DTSTART;VALUE=DATE:20261223
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261223Wednesday1
 DESCRIPTION:Recycling/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20241218
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241218Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20241226
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20241226Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20250102
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250102Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250108
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250108Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🎄🗑 Christmas Tree/Garbage Day
-DTSTART;VALUE=DATE:20250115
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250115Wednesday1
-DESCRIPTION:Christmas Tree/Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250122
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250122Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🎄🗑 Christmas Tree/Garbage Day
-DTSTART;VALUE=DATE:20250129
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250129Wednesday1
-DESCRIPTION:Christmas Tree/Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250205
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250205Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20250212
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250212Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250219
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250219Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20250226
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250226Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250305
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250305Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250312
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250312Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250319
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250319Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250326
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250326Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250402
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250402Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250409
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250409Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250416
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250416Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250423
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250423Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250430
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250430Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250507
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250507Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250514
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250514Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250521
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250521Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250528
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250528Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250604
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250604Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250611
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250611Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250618
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250618Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250625
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250625Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250702
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250702Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250709
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250709Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250716
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250716Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250723
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250723Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250730
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250730Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250806
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250806Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250813
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250813Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250820
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250820Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250827
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250827Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250903
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250903Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250910
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250910Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20250917
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250917Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20250924
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20250924Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251001
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251001Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20251008
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251008Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251015
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251015Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20251022
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251022Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251029
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251029Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20251105
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251105Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251112
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251112Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20251119
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251119Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251126
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251126Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🍂🗑 Yard Waste/Garbage Day
-DTSTART;VALUE=DATE:20251203
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251203Wednesday1
-DESCRIPTION:Garbage/Green Bin/Yard Waste
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251210
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251210Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20251217
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251217Wednesday1
-DESCRIPTION:Garbage/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
-SUMMARY:♻️ Recycling Day
-DTSTART;VALUE=DATE:20251224
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251224Wednesday1
-DESCRIPTION:Recycling/Green Bin
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-URL;VALUE=URI:https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
-SUMMARY:🗑 Garbage Day
-DTSTART;VALUE=DATE:20251231
-DTSTAMP;VALUE=DATETIME:20250114T183605
-UID:20251231Wednesday1
+DTSTART;VALUE=DATE:20261230
+DTSTAMP;VALUE=DATETIME:20251218T164138
+UID:20261230Wednesday1
 DESCRIPTION:Garbage/Green Bin
 TRANSP:TRANSPARENT
 END:VEVENT

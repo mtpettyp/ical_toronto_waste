@@ -6,7 +6,6 @@ Converts Toronto Open Data Solid Waste data into useable iCal and CSV calendars.
 
 | Zone | Google Calendar/iCal | Outlook/Yahoo! Calendars/CSV |
 |------|:--------------------:|:----------------------------:|
-| Monday Night | [iCal](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/ics/MondayNight.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/csv/MondayNight.csv) |
 | Tuesday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/ics/Tuesday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/csv/Tuesday1.csv) |
 | Tuesday 2 | [iCal](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/ics/Tuesday2.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/csv/Tuesday2.csv) |
 | Wednesday 1 | [iCal](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/ics/Wednesday1.ics) | [CSV](https://raw.githubusercontent.com/mtpettyp/ical_toronto_waste/main/output/csv/Wednesday1.csv) |

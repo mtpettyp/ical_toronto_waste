@@ -19,7 +19,7 @@ ICS_OUT_PATH = CALENDAR_OUTPUT_DIR + ICS_OUTPUT_DIR
 
 SCHEDULES_FILE_REGEX = 'schedules/pickup-schedule-*.csv'
 
-INPUT_DATE_FORMAT = '%Y-%m-%d'
+INPUT_DATE_FORMAT = '%m/%d/%y'
 CSV_DATE_FORMAT = '%m-%d-%y'
 ICS_DATE_FORMAT = '%Y%m%d'
 ICS_DATETIME_FORMAT = '%Y%m%dT%H%M%S'
@@ -123,17 +123,17 @@ EMOJI_CHRISTMAS_TREE = '🎄'
 
 URL_GARBAGE = ('https://www.toronto.ca/services-payments/recycling-organics-garbage/'
                'houses/what-goes-in-my-green-bin/')
-URL_RECYCLING = 'https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/'
+URL_RECYCLING = 'https://www.circularmaterials.ca/toronto/'
 
 
 class Pickup:
     def __init__(self, row):
         [_, self.calendar, day, green_bin, garbage,
-            recycling, yard_waste, christmas_tree] = row
+            yard_waste, christmas_tree] = row
         self.day = datetime.strptime(day, INPUT_DATE_FORMAT)
         self.green_bin = green_bin != '0'
         self.garbage = garbage != '0'
-        self.recycling = recycling != '0'
+        self.recycling = not self.garbage
         self.yard_waste = yard_waste != '0'
         self.christmas_tree = christmas_tree != '0'
 

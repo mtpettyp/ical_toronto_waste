@@ -1,4 +1,161 @@
 Subject,Start Date,All Day Event,Description
+🎄🗑 Christmas Tree/Garbage Day,01-04-23,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,01-11-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🎄🗑 Christmas Tree/Garbage Day,01-18-23,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,01-25-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,02-01-23,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,02-08-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,02-15-23,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,02-22-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,03-01-23,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,03-08-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,03-15-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,03-22-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,03-29-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-05-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,04-12-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-19-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,04-26-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-03-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,05-10-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-17-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,05-24-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-31-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,06-07-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,06-14-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,06-21-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,06-28-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-05-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,07-12-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-19-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,07-26-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-02-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,08-09-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-16-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,08-23-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-30-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,09-06-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,09-13-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,09-20-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,09-27-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-04-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,10-11-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-18-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,10-25-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-01-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,11-08-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-15-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,11-22-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-29-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,12-06-23,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,12-13-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,12-20-23,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,12-27-23,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🎄🗑 Christmas Tree/Garbage Day,01-03-24,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,01-10-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🎄🗑 Christmas Tree/Garbage Day,01-17-24,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,01-24-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,01-31-24,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,02-07-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,02-14-24,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,02-21-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,02-28-24,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,03-06-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,03-13-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,03-20-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,03-27-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-03-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,04-10-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-17-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,04-24-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-01-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,05-08-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-15-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,05-22-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-29-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,06-05-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,06-12-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,06-19-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,06-26-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-03-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,07-10-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-17-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,07-24-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-31-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,08-07-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-14-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,08-21-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-28-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,09-04-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,09-11-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,09-18-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,09-25-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-02-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,10-09-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-16-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,10-23-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-30-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,11-06-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-13-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,11-20-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-27-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,12-04-24,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,12-11-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,12-18-24,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,12-26-24,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,01-02-25,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,01-08-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🎄🗑 Christmas Tree/Garbage Day,01-15-25,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,01-22-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🎄🗑 Christmas Tree/Garbage Day,01-29-25,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,02-05-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,02-12-25,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,02-19-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,02-26-25,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,03-05-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,03-12-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,03-19-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,03-26-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-02-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,04-09-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-16-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,04-23-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,04-30-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,05-07-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-14-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,05-21-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,05-28-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,06-04-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,06-11-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,06-18-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,06-25-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-02-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,07-09-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-16-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,07-23-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,07-30-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,08-06-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-13-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,08-20-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,08-27-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,09-03-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,09-10-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,09-17-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,09-24-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-01-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,10-08-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-15-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,10-22-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,10-29-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,11-05-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-12-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,11-19-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,11-26-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🍂🗑 Yard Waste/Garbage Day,12-03-25,TRUE,Garbage/Green Bin/Yard Waste - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,12-10-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,12-17-25,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
+♻️ Recycling Day,12-24-25,TRUE,Recycling/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-wizard/
+🗑 Garbage Day,12-31-25,TRUE,Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 ♻️ Recycling Day,01-07-26,TRUE,Recycling/Green Bin - See https://www.circularmaterials.ca/toronto/
 🎄🗑 Christmas Tree/Garbage Day,01-14-26,TRUE,Christmas Tree/Garbage/Green Bin - See https://www.toronto.ca/services-payments/recycling-organics-garbage/houses/what-goes-in-my-green-bin/
 ♻️ Recycling Day,01-21-26,TRUE,Recycling/Green Bin - See https://www.circularmaterials.ca/toronto/
